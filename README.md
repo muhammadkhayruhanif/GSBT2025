@@ -18,7 +18,7 @@ Berikut adalah deskripsi kegiatan utama dan keterampilan teknis yang saya kuasai
 
 ## 🏆 Final Project
 
-Proyek akhir saya, **"Financial Fraud Detection using Paysim Synthetic Dataset"**, berfokus pada pembangunan model deteksi penipuan yang *robust* menggunakan *dataset* Kaggle yang sangat tidak seimbang. Dalam proyek ini, saya berhasil mengatasi *imbalance* data melalui teknik *class weight balancing* pada model *baseline* Logistic Regression. Untuk mencapai performa maksimal, saya mengimplementasikan **Soft Voting Classifier** yang merupakan gabungan dari algoritma kuat (**CatBoost, XGBoost, dan Random Forest**). Hasilnya, metrik F1-Score berhasil ditingkatkan secara dramatis dari 0.02 menjadi **0.92**, dengan tingkat efektivitas prediksi kasus penipuan mencapai **0.86**. Proyek ini menunjukkan kemampuan saya dalam membangun model ML yang andal dari pra-proses hingga *fine-tuning*.
+Proyek akhir saya, **"Financial Fraud Detection using Paysim Synthetic Dataset"**, berfokus pada pembangunan model deteksi penipuan yang *robust* menggunakan *dataset* Kaggle yang sangat tidak seimbang. Dalam proyek ini, saya berhasil mengatasi *imbalance* data melalui teknik *class weight balancing* pada model *baseline* Logistic Regression. Untuk mencapai performa maksimal, saya mengimplementasikan **Soft Voting Classifier** yang merupakan gabungan dari algoritma kuat (**CatBoost, XGBoost, dan Random Forest**). Hasilnya, metrik F1-Score berhasil ditingkatkan dari 0.02 menjadi **0.92**, dengan tingkat efektivitas prediksi kasus penipuan mencapai **0.86**.
 
 ---
 
