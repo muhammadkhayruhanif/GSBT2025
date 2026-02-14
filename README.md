@@ -22,7 +22,7 @@ Proyek akhir saya, **"Financial Fraud Detection using Paysim Synthetic Dataset"*
 
 ---
 
-## 📜 Dokumentasi dan Sertifikat
+## 📜 Dokumentasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/244df034-ee69-4dae-8321-9c15b1b078b4" width="180px" alt="Pertemuan-1" />
